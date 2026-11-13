@@ -10,7 +10,7 @@
 
 - 版本 **1.2.1 / versionCode 6**，版本源为根目录 `version.properties`，更新日志见 [CHANGELOG.md](CHANGELOG.md)。
 - 个人维护项目，**没有**发布预编译 APK、GitHub Releases 或应用商店版本；请自行从源码构建。
-- 本仓库未初始化 Git 历史、未配置远程仓库，也不包含原作者的历史提交。公开版本的改动与限制记录在 [docs/OPEN-SOURCE-EDITION.md](docs/OPEN-SOURCE-EDITION.md)。
+- 本公开仓库以 MyCard 1.2.1 稳定源码为基础建立独立 Git 历史，不包含私人开发仓库的历史提交。公开版本的改动与限制记录在 [docs/OPEN-SOURCE-EDITION.md](docs/OPEN-SOURCE-EDITION.md)。
 - 仅提供简体中文界面；minSdk 29（Android 10），compileSdk / targetSdk 37。
 
 ## 功能
