@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 安全问题 / Security report
+    url: mailto:oceanfish1113@outlook.com?subject=%5BMyCard%20Security%5D
+    about: 请私下报告漏洞，不要在公开 Issue 中披露细节或真实卡片数据。
+  - name: 品牌与商标 / Brand and trademark
+    url: mailto:oceanfish1113@outlook.com?subject=%5BMyCard%20Brand%5D
+    about: 权利人联系方式见 BRAND_NOTICE.md；本仓库不包含品牌图形。

@@ -1,0 +1,45 @@
+# Android / Gradle build output
+*.iml
+.gradle/
+build/
+/captures
+.externalNativeBuild/
+.cxx/
+.kotlin/
+local.properties
+*.hprof
+
+# IDE and editor state
+.idea/
+.vscode/
+.codex/
+.agents/
+.DS_Store
+
+# Release binaries and signing material (never commit these)
+releases/
+delivery/
+diagnostics/
+*.apk
+*.aab
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+keystore.properties
+signing.properties
+
+# Local logs and ad-hoc verification output
+*.log
+/app/build/archives/
+/app/build/ui-previews/
+
+# Personal data and local material
+*.mycard
+*.mycard.bak
+/backups/
+/screenshots-private/
+/docs/brand-sources/
+/docs/brand-sources/**
